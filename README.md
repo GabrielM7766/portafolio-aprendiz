@@ -1,23 +1,15 @@
-# Mi proyecto
+# Portafolio aprendiz
 
-# 
+Portafolio académico desarrollado para aprender GitHub 
 
-## Descripción
-
-Este proyecto contiene código en distintos lenguajes.
-
-# 
-
-### Lenguajes usados
+## Tecnologías
 
 - Python
 
-- Java
+- Git
 
 - GitHub
 
-# 
+## Autor
 
-### Enlaces
-
-Visita mi repositorio en https://github.com/GabrielM7766/portafolio-aprendiz
+Gabriel Santiago Melo González
