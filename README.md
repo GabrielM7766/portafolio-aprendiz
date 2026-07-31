@@ -10,11 +10,11 @@ Este proyecto contiene código en distintos lenguajes.
 
 ### Lenguajes usados
 
-# - Python
+- Python
 
-# - Java
+- Java
 
-# - GitHub
+- GitHub
 
 # 
 
